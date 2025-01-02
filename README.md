@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Loetgott
 - 👀 I’m interested in 3d printing, event technic, java, html and JavaScrpit programming
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on a program to play bingo with deviations of deutsche Bahn
-- 📫 You can reach me via KingOfCrochet@web.de
+- 💞️ I'm building a model ropeway
 - 😄 Pronouns: he/him
 
 <!---
